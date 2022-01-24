@@ -7,7 +7,7 @@ background: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm
 
 # Te presentamos el nuevo G213 de Logitech
 
-![teclado g213](/images/g213-feature.jpg)
+![teclado g213](https://capitan9709.github.io/Pagina-Hugo/images/g213-feature.jpg)
 
 ¿Estás pensando en comprarte un nuevo teclado para tu pc pero no sabes cuál comprar?
 
@@ -33,7 +33,7 @@ El ajuste de ángulo en dos niveles te permite colocar el teclado tal y como qui
 
 Los controles multimedia de G213 permiten reproducir, poner en pausa y silenciar música y vídeos al instante. Ajusta el volumen o salta a la siguiente canción con sólo pulsar un botón.
 
-![teclado g213](/images/g213.jpg)
+![teclado g213](https://capitan9709.github.io/Pagina-Hugo/images/g213.jpg)
 
 ## ESPECIFICACIONES FÍSICAS
 
