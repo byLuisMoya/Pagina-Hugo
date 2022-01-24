@@ -2,3 +2,11 @@ baseURL = 'https://capitan9709.github.io/Pagina-Hugo/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-dimension'
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/posts/"
+    weight = 0
