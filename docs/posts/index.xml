@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
+    <link>https://capitan9709.github.io/Pagina-Hugo/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://capitan9709.github.io/Pagina-Hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PUBG Gratis</title>
-      <link>http://example.org/posts/pubg/</link>
+      <link>https://capitan9709.github.io/Pagina-Hugo/posts/pubg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/pubg/</guid>
+      <guid>https://capitan9709.github.io/Pagina-Hugo/posts/pubg/</guid>
       <description>¡El battle royale PUBG esta ahora gratis! El famoso juego battle royale «PUBG» está ahora gratis en la plataforma de Steam de forma permanente.
 Aterriza en posiciones estratégicas, saquea armas y suministros, y sobrevive para que vuestro equipo sea el único en pie en los distintos y variados campos de batalla.
 Podréis encontrar el juego gratis aquí.</description>
@@ -19,10 +19,10 @@ Podréis encontrar el juego gratis aquí.</description>
     
     <item>
       <title>Teclado G213</title>
-      <link>http://example.org/posts/teclado/</link>
+      <link>https://capitan9709.github.io/Pagina-Hugo/posts/teclado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/teclado/</guid>
+      <guid>https://capitan9709.github.io/Pagina-Hugo/posts/teclado/</guid>
       <description>Te presentamos el nuevo G213 de Logitech ¿Estás pensando en comprarte un nuevo teclado para tu pc pero no sabes cuál comprar?
 Déjanos presentarte «Logitech G213 Prodigy»
 RENDIMIENTO El teclado G213 para «Gaming» está dotado de teclas Logitech G Mech-Dome ajustadas especialmente para ofrecer una respuesta táctil superior y un perfil de rendimiento global similar al de un teclado mecánico. Las teclas Mech-Dome tienen una altura estándar, ofrecen un recorrido total de 4 mm, una fuerza de actuación de 50 g y un funcionamiento silencioso.</description>
@@ -30,10 +30,10 @@ RENDIMIENTO El teclado G213 para «Gaming» está dotado de teclas Logitech G Me
     
     <item>
       <title>¡Nueva RTX 3080!</title>
-      <link>http://example.org/posts/rtx/</link>
+      <link>https://capitan9709.github.io/Pagina-Hugo/posts/rtx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/rtx/</guid>
+      <guid>https://capitan9709.github.io/Pagina-Hugo/posts/rtx/</guid>
       <description>¡NVIDIA ANUNCIA LA RTX 3080 12GB! La famosa compañía de tarjetas gráficas «Nvidia» ha anunciado el nuevo integrante de la familia 3000.
 Os presentamos la RTX 3080 de 12GB de memoria.
 DISEÑO INNOVADOR El nuevo diseño de doble flujo axial ofrece el mayor rendimiento térmico posible sin comprometer la acústica del ventilador. Este innovador diseño refuerza el flujo de aire natural del chasis para conseguir un sistema de gaming mejor refrigerado y más silencioso.</description>

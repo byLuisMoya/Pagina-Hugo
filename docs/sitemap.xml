@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://capitan9709.github.io/Pagina-Hugo/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://capitan9709.github.io/Pagina-Hugo/</loc>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://capitan9709.github.io/Pagina-Hugo/posts/</loc>
   </url><url>
-    <loc>http://example.org/posts/pubg/</loc>
+    <loc>https://capitan9709.github.io/Pagina-Hugo/posts/pubg/</loc>
   </url><url>
-    <loc>http://example.org/aboutme/</loc>
+    <loc>https://capitan9709.github.io/Pagina-Hugo/aboutme/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://capitan9709.github.io/Pagina-Hugo/tags/</loc>
   </url><url>
-    <loc>http://example.org/posts/teclado/</loc>
+    <loc>https://capitan9709.github.io/Pagina-Hugo/posts/teclado/</loc>
   </url><url>
-    <loc>http://example.org/posts/rtx/</loc>
+    <loc>https://capitan9709.github.io/Pagina-Hugo/posts/rtx/</loc>
   </url>
 </urlset>
